@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I’m Isaac Pena
 
-<!--
-**nuIsaac/nuIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science & Behavioral Neuroscience student at Northeastern University passionate about building impactful software and exploring how technology can support mental health and accessibility.
 
-Here are some ideas to get you started:
+🚀 Skills & Interests
 
-- 🔭 I’m currently working on school projects.
-- 🌱 I’m currently learning how to work GitHub.
-- 👯 I’m looking to collaborate on coding projects.
-- 🤔 I’m looking for help with math work.
-- 💬 Ask me about my favorite food.
-- 📫 How to reach me: email.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love music.
--->
+Languages: Java, Python, JavaScript, HTML/CSS
+
+Frameworks & Tools: React, Node.js, Flask, Git/GitHub, VS Code
+
+Special Interests:
+
+AI & Machine Learning
+
+Full-Stack Development
+
+Accessible and human-centered applications
+
+Music technology & creative coding
+
+
+📫 Contact Me
+
+Email: pena.isaa@northeastern.edu
+
+LinkedIn: https://www.linkedin.com/in/isaac-pena-0601462a3/
+
