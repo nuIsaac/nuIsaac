@@ -1,27 +1,24 @@
-👋 Hi, I’m Isaac Pena
+👋 Hi, I’m Isaac Peña
 
-I’m a Computer Science & Behavioral Neuroscience student at Northeastern University passionate about building impactful software and exploring how technology can support mental health and accessibility.
+I’m a Computer Science & Behavioral Neuroscience student at Northeastern University passionate about building impactful, human-centered software that bridges technology, mental health, and accessibility.
 
 🚀 Skills & Interests
 
-Languages: Java, Python, JavaScript, HTML/CSS
-
-Frameworks & Tools: React, Node.js, Flask, Git/GitHub, VS Code
+Languages: Java, Python, JavaScript, C#, HTML/CSS
+Frameworks & Tools: React, Node.js, Flask, ASP.NET Core, SQL, Git/GitHub, VS Code
 
 Special Interests:
 
 AI & Machine Learning
 
-Full-Stack Development
+Full-Stack & API Development
 
-Accessible and human-centered applications
+Accessibility & Assistive Tech
 
-Music technology & creative coding
+Creative Coding & Music Technology
 
+Outside of coding, I’m interested in how technology can empower creativity and improve accessibility in everyday life.
 
-📫 Contact Me
+📫 Email: pena.isaa@northeastern.edu
 
-Email: pena.isaa@northeastern.edu
-
-LinkedIn: https://www.linkedin.com/in/isaac-pena-0601462a3/
-
+🔗 LinkedIn: linkedin.com/in/isaac-pena-0601462a3
