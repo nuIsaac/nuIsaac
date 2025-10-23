@@ -21,4 +21,4 @@ Outside of coding, I’m interested in how technology can empower creativity and
 
 📫 Email: pena.isaa@northeastern.edu
 
-🔗 LinkedIn: linkedin.com/in/isaac-pena-0601462a3
+🔗 LinkedIn: www.linkedin.com/in/penaisaac  
