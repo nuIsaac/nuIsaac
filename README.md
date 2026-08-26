@@ -1,23 +1,24 @@
-👋 Hi, I’m Isaac Peña
 
-I’m a Computer Science & Business student at Northeastern University interested in building practical, human-centered technology across software, data, and business systems.
+# 👋 Hi, I’m Isaac Peña
 
-🚀 Skills & Interests
+I’m a Computer Science & Business student at Northeastern University interested in building data-driven systems, analytical tools, and software that turns complex information into useful decisions.
 
-Languages: Java, Python, JavaScript/TypeScript, C#, SQL, HTML/CSS
-Frameworks & Tools: React, Node.js, Flask, ASP.NET Core, Git/GitHub, VS Code, SQL Server, PostgreSQL
+## 🚀 Skills & Interests
 
-Special Interests:
+**Languages:** Python, SQL, Java, JavaScript/TypeScript, C#, HTML/CSS  
+**Data & Analytics:** pandas, NumPy, Matplotlib, PostgreSQL, SQL Server, Snowflake, Power BI  
+**Frameworks & Tools:** FastAPI, React, Next.js, Node.js, Flask, ASP.NET Core, Docker, Git/GitHub
 
-* Full-Stack & API Development
-* Data Analysis & Business Analytics
-* AI & Machine Learning
-* Technical Operations & Automation
-* Accessibility & Creative Technology
+**Special Interests:**
 
-Outside of coding, I’m interested in how technology can improve everyday workflows, support creativity, and make digital tools more accessible and useful.
+- Data Engineering & Data Pipelines
+- Quantitative Research & Forecasting
+- Statistical Modeling & Applied Machine Learning
+- Backend & API Development
+- Analytics, Automation & Decision Support
 
-📫 Email: [pena.isaa@northeastern.edu](mailto:pena.isaa@northeastern.edu)
-🔗 LinkedIn: [www.linkedin.com/in/penaisaac](http://www.linkedin.com/in/penaisaac)
+Outside of coding, I’m interested in how data, probability, and software can be used to understand complex systems and make better decisions.
 
- 
+📫 **Email:** [pena.isaa@northeastern.edu](mailto:pena.isaa@northeastern.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/penaisaac](https://www.linkedin.com/in/penaisaac)
+
