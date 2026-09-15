@@ -1,1 +1,2 @@
-[Isaac Resume Oct 25.docx.pdf](https://github.com/user-attachments/files/23106827/Isaac.Resume.Oct.25.docx.pdf)
+[isaac_resume_27.pdf](https://github.com/user-attachments/files/32254485/isaac_resume_27.1.pdf)
+
